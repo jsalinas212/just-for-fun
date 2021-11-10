@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Bitwise;
+    src: url(../font/Bitwise-m19x.ttf) format("truetype");
+}
+
+* {
+    margin: 0 auto;
+}
+
+body {
+    background-color: #393939;
+}
+
+header {
+    color: #a6ff00;
+    margin: 50px 0;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #ff539b;
+    text-align: center;
+    width: 60%;
+    margin-bottom: 40px;
+}
+
+section {
+    padding: 20px 20px;
+    font-family: Bitwise;
+    margin-left: 50px;
+}
+
+section h3 {
+    font-size: 26px;
+    color: #ff539b;
+    border-bottom: 1px solid #ff539b;
+    display: inline-block;
+    padding: 16px 60px;
+}
+
+section p {
+    font-size: 22px;
+    line-height: 1.5;
+    padding: 20px 0;
+    color: #a6ff00;
+    border-left: 1px solid #ff539b;
+}
+
+section p span {
+    color: #ff539b;
+}
+
+section a {
+    text-decoration: none;
+    color: #9b88f3;
+    transition: all 700ms;
+}
+
+section a:hover {
+    color: rgb(160, 236, 255);
+}
