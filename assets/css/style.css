@@ -31,7 +31,7 @@ section {
 }
 
 section h3 {
-    font-size: 26px;
+    font-size: 20px;
     color: #ff539b;
     border-bottom: 1px solid #ff539b;
     display: inline-block;
@@ -39,7 +39,7 @@ section h3 {
 }
 
 section p {
-    font-size: 22px;
+    font-size: 16px;
     line-height: 1.5;
     padding: 20px 0;
     color: #a6ff00;
