@@ -12,13 +12,13 @@ body {
 }
 
 header {
-    color: #a6ff00;
+    color: #51c7d6;
     margin: 50px 0;
     text-align: center;
 }
 
 hr {
-    border: 1px solid #ff539b;
+    border: 1px solid #cc6992;
     text-align: center;
     width: 60%;
     margin-bottom: 40px;
@@ -32,8 +32,8 @@ section {
 
 section h3 {
     font-size: 20px;
-    color: #ff539b;
-    border-bottom: 1px solid #ff539b;
+    color: #cc6992;
+    border-bottom: 1px solid #cc6992;
     display: inline-block;
     padding: 16px 60px;
 }
@@ -42,20 +42,21 @@ section p {
     font-size: 16px;
     line-height: 1.5;
     padding: 20px 0 20px 10px;
-    color: #a6ff00;
-    border-left: 1px solid #ff539b;
+    color: #51c7d6;
+    border-left: 1px solid #cc6992;
 }
 
 section p span {
-    color: #ff539b;
+    color: #cc6992;
 }
 
 section a {
     text-decoration: none;
-    color: #9b88f3;
+    color: #8a81b4;
     transition: all 700ms;
 }
 
 section a:hover {
-    color: rgb(160, 236, 255);
+    color: #51c7d6;
+    border-bottom: 1px solid #51c7d6;
 }
